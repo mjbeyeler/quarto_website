@@ -1,0 +1,17 @@
+{
+  "title": "Analysis of babynames",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "keywords": [
+    "R",
+    "quarto",
+    "tutorial"
+  ],
+  "creators": [
+    {
+      "name": "Michael J. Beyeler",
+      "affiliation": "University of Lausanne, Computational Biology Group",
+      "orcid": "0000-0001-6199-4879"
+    } 
+  ]
+}
